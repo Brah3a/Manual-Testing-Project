@@ -4,20 +4,24 @@ This repository contains manual testing notes and a complete test documentation 
 
 ## Repository Structure
 
+## Repository Structure
+
+```
 Manual-Testing
 │
-├── ManualTestingNotes.pdf – Notes covering manual testing concepts and fundamentals.
-├── MT-Handwritten-notes.pdf – Handwritten study notes related to manual testing topics.
-├── Mynotes.pdf – Additional testing notes and references.
+├── ManualtestingNotes.pdf
+├── MT-Handwritten-notes.pdf
+├── Mynotes.pdf
 │
 └── Documentations
-  ├── OpenCart - FRS.pdf – Functional Requirement Specification for the OpenCart application.
-  ├── OpenCart - Test Plan.pdf – Test plan describing scope, strategy, resources, and schedule.
-  ├── OpenCart-BugReport.xlsx – List of identified defects during testing.
-  ├── OpenCart-RTM.xlsx – Requirement Traceability Matrix mapping requirements to test cases.
-  ├── OpenCart-Test Scenarios.xlsx – High-level testing scenarios derived from requirements.
-  ├── OpenCart-TestCases.xlsx – Detailed test cases including steps, expected results, and status.
-  └── OpenCart-TestExecution-Results.xlsx – Execution report showing pass/fail results of test cases.
+    ├── OpenCart-FRS.pdf
+    ├── OpenCart-Test-Plan.pdf
+    ├── OpenCart-BugReport.xlsx
+    ├── OpenCart-RTM.xlsx
+    ├── OpenCart-TestScenarios.xlsx
+    ├── OpenCart-TestCases.xlsx
+    └── OpenCart-TestExecution-Results.xlsx
+```
 
 ## Project Overview
 
