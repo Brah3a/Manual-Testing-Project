@@ -4,8 +4,6 @@ This repository contains manual testing notes and a complete test documentation 
 
 ## Repository Structure
 
-## Repository Structure
-
 ```
 Manual-Testing
 │
@@ -32,4 +30,3 @@ The documentation in this repository demonstrates the complete manual testing wo
 * Microsoft Excel – Test cases, RTM, and defect tracking
 * Microsoft Word – Requirement and test plan documentation
 * GitHub – Version control and documentation repository
-
